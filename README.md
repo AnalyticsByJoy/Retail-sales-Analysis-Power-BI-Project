@@ -4,7 +4,7 @@
 
 [Project Objective](#project-objective)
 
-[Key Business Questions Answered (KPIs)](#key-business-questions-answered-(kpis))
+[Key Business Questions Answered (KPIs)](#Key-Business-Questions-Answered-(KPIs))
 
 [Process](#process)
 
@@ -48,8 +48,8 @@ This report was developed to answer the following questions:
 - Analyzed the dataset by asking targeted business questions and answering each on separate dashboard pages.
 
 **3. Data Modeling**
-	•	Reviewed relationships between tables where applicable.
-	•	Created calculated columns for total revenue, discount category, shipping cost category, profit, and final profit.
+- Reviewed relationships between tables where applicable.
+- Created calculated columns for total revenue, discount category, shipping cost category, profit, and final profit.
 
  **4. Visualization**
 - Designed a clean, user-friendly dashboard layout.
