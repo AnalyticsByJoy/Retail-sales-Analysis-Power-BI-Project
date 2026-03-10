@@ -4,7 +4,7 @@
 
 [Project Objective](#project-objective)
 
-[Key Business Questions Answered (KPIs)](#Key-Business-Questions-Answered-(KPIs))
+[Key Business Questions Answered (KPIs)](#key-business-questions-answered-KPIs)
 
 [Process](#process)
 
